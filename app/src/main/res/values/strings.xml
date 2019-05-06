@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AR Game</string>
+    <string name="mapbox_token">sk.eyJ1Ijoic2syODA0IiwiYSI6ImNqdmJ5OHVnZDFkN2E0ZXBraWZwM24xcnMifQ.iCVNrursdsc2lyIXzBDPig</string>
+</resources>
